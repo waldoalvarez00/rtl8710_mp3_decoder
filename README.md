@@ -1,3 +1,7 @@
+Superceeded by PVVX's https://github.com/pvvx/mp3_decode
+
+The following is for reference only.
+-------------------------
 1/ This is a port of ESP8266's MP3 decoder (webradio) to RTL8710, RTL8711 and RTL8195 based modules such as RTL-00 and RTL-01.
 
 2/ This is WORK IN PROGESS
