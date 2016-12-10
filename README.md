@@ -1,4 +1,5 @@
-Superceeded by PVVX's https://github.com/pvvx/mp3_decode
+This is not maintained anymore github user pvvx took it to the next level:
+https://github.com/pvvx/mp3_decode
 
 The following is for reference only.
 -------------------------
